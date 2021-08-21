@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baeldung_binary_tree.BinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T00:42:44" hostname="FLASH" time="0.018">
+  <properties/>
+  <testcase name="testOrder()" classname="baeldung_binary_tree.BinaryTreeTest" time="0.018"/>
+  <system-out><![CDATA[ Calling InOrder Method:   4 11 15 32 40 54 76 92 95
+ Calling PreOrder Method:   15 4 11 54 32 40 95 76 92
+ Breadth-First(Level-Order) Method:  15 4 54 11 32 95 40 76 92]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
